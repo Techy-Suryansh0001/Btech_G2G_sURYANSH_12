@@ -1,2 +1,2 @@
-# Btech_G2G_sURYANSH_12
+# Btech_G2G_SURYANSH_12
 C Program Repository
